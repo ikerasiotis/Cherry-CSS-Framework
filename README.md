@@ -1,2 +1,7 @@
-# cherry-sass-templates
-A styling template library is written with SASS (specifically with SCSS). 
+# Cherry CSS Framework - UI Library
+
+## Themes
+
+- [ ] Default Theme
+- [ ] Cherry Theme
+- [ ] Pride Theme

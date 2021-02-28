@@ -1,0 +1,27 @@
+{
+  "name": "cherry-css-framework",
+  "version": "1.0.0",
+  "description": "## Themes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikerasiotis/Cherry-CSS-Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikerasiotis/Cherry-CSS-Framework/issues"
+  },
+  "homepage": "https://github.com/ikerasiotis/Cherry-CSS-Framework#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.32.8"
+  }
+}
